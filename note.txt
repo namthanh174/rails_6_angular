@@ -1,0 +1,7 @@
+1: Fix standard_init_linux.go:211: exec user process caused "no such file or directory"
+open with code .
+- Change all files CRLF to LF
+https://www.codegrepper.com/code-examples/whatever/change+all+crlf+to+lf+vscode
+git config core.autocrlf false 
+git rm --cached -r . 
+git reset --hard
